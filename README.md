@@ -6,7 +6,7 @@ First, clone this repository
 https://github.com/mrmani15/mysql-todo.git
 ```
 
-go inside server directory, then
+go inside directory, then
 
 ```bash
 npm install
