@@ -10,6 +10,6 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use("/", require("./routes/todo"));
 
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => console.log(`server running at ${PORT}`));
