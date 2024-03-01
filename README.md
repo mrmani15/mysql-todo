@@ -20,7 +20,7 @@ npm run dev
 
 server will be started and running on port 5000;
 
-## Tach used
+## Tech used
 
 Express
 Sequelize
